@@ -233,6 +233,8 @@ window.snake.more_menu = function(e) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -2));
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 4) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -1));
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 5) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 2));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 2));
