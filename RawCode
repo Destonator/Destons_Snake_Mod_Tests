@@ -232,31 +232,7 @@ window.snake.more_menu = function(e) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -2));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -2));
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 4) {
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 0));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -2));
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 5) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 2));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 2));
